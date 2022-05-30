@@ -1,0 +1,24 @@
+name: SocialLinks
+version: '1.0.0'
+main: me.durqznohh.social.SocialLinks
+api-version: 1.13
+commands:
+  discord:
+    description: 'Discord message'
+  store:
+    description: 'Store message'
+  teamspeak:
+    description: 'TeamSpeak message'
+    aliases:
+      - ts
+  twitter:
+    description: 'Twitter message'
+  website:
+    description: 'Website message'
+    aliases:
+      - web
+  sociallinks:
+    description: 'Main command'
+    aliases:
+      - links
+      - socials

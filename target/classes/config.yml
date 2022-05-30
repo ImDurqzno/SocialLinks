@@ -1,0 +1,73 @@
+#-----------------------------------------------------------------------------------------------#
+#                                                                                               #
+#           Any bug report it on my discord or on the plugin page:                              #
+#                               Durqznohh#4718                                                  #
+#                                                                                               #
+#-----------------------------------------------------------------------------------------------#
+#
+#----------------#
+#   Toggles      #
+#----------------#
+#
+Discord-Enabled: true
+Store-Enabled: true
+TeamSpeak-Enabled: true
+Twitter-Enabled: true
+Website-Enabled: true
+#
+#
+#------------------#
+#   Permissions    #
+#------------------#
+#
+#
+Admin: "socials.admin"
+Reload: "socials.reload"
+#------------------#
+#    Commands      #
+#------------------#
+#
+#
+Discord:
+  - ""
+  - "&b&lDiscord"
+  - "&fStay up to date on SOTW announcements, giveaways, events"
+  - "&fand much more through our discord! Interact with other"
+  - ""
+  - "&bserver.com/discord"
+  - ""
+Store:
+  - ""
+  - "&b&lStore"
+  - "&fIn our store you can find the best discounts at a low cost"
+  - "&fyou can buy your preferred rank"
+  - ""
+  - "&bstore.server.com"
+  - ""
+TeamSpeak:
+  - ""
+  - "&b&lTeamspeak"
+  - "&fOur speaking team is specially commissioned to assist you"
+  - "&fby entering teamspeak you can ask for your buyer rank"
+  - "report any hacker or offensive player."
+  - ""
+  - "&bts.server.com"
+  - ""
+Twitter:
+  - ""
+  - "&b&lTwitter"
+  - "&fStay up date with our latest updates, giveaways and"
+  - "&fannouncements. We also post sneak peeks at new features"
+  - ""
+  - "&b&ntwitter.com/server"
+  - ""
+Website:
+  - ""
+  - "&b&lWebsite"
+  - "&fon our website you can find information such as .."
+  - "&fthe forum, our store and much more"
+  - "&fcome in and join our adventure!!"
+  - ""
+  - "&bwww.server.com"
+  - ""
+Reload-Msg: "&aConfig reloaded"
